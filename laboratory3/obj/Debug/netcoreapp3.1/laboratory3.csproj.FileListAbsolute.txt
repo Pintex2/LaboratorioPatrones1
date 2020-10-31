@@ -1,0 +1,13 @@
+C:\Users\carit\source\repos\laboratory3\bin\Debug\netcoreapp3.1\laboratory3.exe
+C:\Users\carit\source\repos\laboratory3\bin\Debug\netcoreapp3.1\laboratory3.deps.json
+C:\Users\carit\source\repos\laboratory3\bin\Debug\netcoreapp3.1\laboratory3.runtimeconfig.json
+C:\Users\carit\source\repos\laboratory3\bin\Debug\netcoreapp3.1\laboratory3.runtimeconfig.dev.json
+C:\Users\carit\source\repos\laboratory3\bin\Debug\netcoreapp3.1\laboratory3.dll
+C:\Users\carit\source\repos\laboratory3\bin\Debug\netcoreapp3.1\laboratory3.pdb
+C:\Users\carit\source\repos\laboratory3\obj\Debug\netcoreapp3.1\laboratory3.csprojAssemblyReference.cache
+C:\Users\carit\source\repos\laboratory3\obj\Debug\netcoreapp3.1\laboratory3.csproj.CoreCompileInputs.cache
+C:\Users\carit\source\repos\laboratory3\obj\Debug\netcoreapp3.1\laboratory3.AssemblyInfoInputs.cache
+C:\Users\carit\source\repos\laboratory3\obj\Debug\netcoreapp3.1\laboratory3.AssemblyInfo.cs
+C:\Users\carit\source\repos\laboratory3\obj\Debug\netcoreapp3.1\laboratory3.dll
+C:\Users\carit\source\repos\laboratory3\obj\Debug\netcoreapp3.1\laboratory3.pdb
+C:\Users\carit\source\repos\laboratory3\obj\Debug\netcoreapp3.1\laboratory3.genruntimeconfig.cache

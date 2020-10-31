@@ -1,0 +1,13 @@
+﻿using System;
+
+namespace Games_Factory
+{
+    class Ps5 : IConsole
+    {
+        public void sell_console(string name, int price)
+        {
+
+            Console.WriteLine("Ps5 selled to : " + name + " and price: " + price.ToString() + "$");
+        }
+    }
+}
